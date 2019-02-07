@@ -1,0 +1,34 @@
+/*FONTS
+font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans', sans-serif;
+*/
+
+
+.oswald{
+  font-family: 'Oswald', sans-serif;
+}
+
+.pt-sans{
+  font-family: 'PT Sans', sans-serif;
+}
+
+.carousel{
+  height: 80vh;
+}
+
+.carousel-item img{
+  object-fit: cover;
+}
+
+.bg-black{
+  background-color: #000;
+}
+
+h3{
+  color: #fff;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.figure-caption{
+  font-family: 'Oswald', sans-serif;
+}
